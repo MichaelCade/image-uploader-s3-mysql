@@ -11,3 +11,9 @@ You upload your picture to the site > this is stored in the database and bucket 
 - Deploy Application to either EC2 or another option? 
 - What would be a good failure scenario here? 
 - Deploy Veeam Backup for AWS to protect our application  
+
+## Deployment 
+For the frontend deployment you can check out [FrontEnd Deployment](/frontend/README.md)
+
+## template.env
+template.env can be used to understand the environment variables required this should be completed and added to the /backend folder for the application to work. 
